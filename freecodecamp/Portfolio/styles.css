@@ -3,3 +3,8 @@ body {
     background-size: cover; /* Cover the entire area */
     background-position: center; /* Center the image */
   }
+
+  img{
+    max: width 200px;
+    height: 200px;
+}
